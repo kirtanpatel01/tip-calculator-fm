@@ -18,9 +18,7 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- [Live](https://kirtanpatel01.github.io/tip-calculator-fm/)
 
 ### Built with
 
